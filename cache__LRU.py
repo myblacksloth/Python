@@ -9,7 +9,7 @@ def factorial(n):
 print(factorial(5))
 print(factorial(3))
 print(factorial(10))
-print(factorial(20))
+print(factorial(25))
 
 
 ''' out>
@@ -25,6 +25,11 @@ computing 8!
 computing 7!
 computing 6!
 3628800
+computing 25!
+computing 24!
+computing 23!
+computing 22!
+computing 21!
 computing 20!
 computing 19!
 computing 18!
@@ -35,5 +40,5 @@ computing 14!
 computing 13!
 computing 12!
 computing 11!
-2432902008176640000
+15511210043330985984000000
 '''
