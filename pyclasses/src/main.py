@@ -1,5 +1,6 @@
 
 from src.cls.printer import printer, plotter, laserPlotter
+from src.cls.dispatcher import Dispatcher, Postman
 
 def main():
 
@@ -16,6 +17,14 @@ def main():
         lpl = laserPlotter(custom=cdata)
         print("il tipo di lpl e' {}".format(lpl.getType()))
 
+        d = Dispatcher()
+        d.send('ciao')
+        d.send('come')
+        d.send('stai')
+        d.run()
+        p = Postman()
+        p.send('ciao', Dispatcher())
+        print(p.check(Dispatcher())) # []
 
 
 if __name__ == "__main__":
