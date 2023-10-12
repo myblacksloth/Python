@@ -2,7 +2,7 @@
 
 # downloader automatico
 # dei contenuti di google drive
-# indicati nella pagina https://www.datatime.eu/public/cybersecurity/Statistics_2021_22/
+# indicati nella pagina [[[s_p_o_i_l_e_r]]]
 # per scaricare le videolezioni di statistica
 
 
