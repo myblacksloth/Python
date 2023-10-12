@@ -1,0 +1,108 @@
+/Users/anto/Desktop/wgetter/venv/bin/python -m src.main 
+downloading 0 of 29.0
+Downloading...
+From (uriginal): https://drive.google.com/u/0/uc?id=1XBSvmDylVTNpo_RG8vwuE8ouizRM1gCs&export=download
+From (redirected): https://drive.google.com/uc?id=1XBSvmDylVTNpo_RG8vwuE8ouizRM1gCs&export=download&confirm=t&uuid=1ee7b592-f1ce-4eea-bf6e-1765f3c2d04a
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_06_Theory_05_MeanVarianceOfSampleMean.mp4
+100%|██████████| 208M/208M [00:15<00:00, 13.1MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1XBSvmDylVTNpo_RG8vwuE8ouizRM1gCs&export=download:::::downloaded/Lesson_06_Theory_05_MeanVarianceOfSampleMean.mp4
+downloading 1 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=1gnXs8gwUEt5GgNoxmjpFENY7w8SQHcx1&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_07_Theory_01_ConcentrationInequalities_Markov.mp4
+100%|██████████| 58.9M/58.9M [00:04<00:00, 13.3MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1gnXs8gwUEt5GgNoxmjpFENY7w8SQHcx1&export=download:::::downloaded/Lesson_07_Theory_01_ConcentrationInequalities_Markov.mp4
+downloading 2 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=1QtYA2hgZLaaA3hZg_VL8Pl-U84MqK-CX&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_07_Theory_02_ConcentrationInequalities_Chebyshev_LLNProof.mp4
+100%|██████████| 43.8M/43.8M [00:03<00:00, 13.0MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1QtYA2hgZLaaA3hZg_VL8Pl-U84MqK-CX&export=download:::::downloaded/Lesson_07_Theory_02_ConcentrationInequalities_Chebyshev_LLNProof.mp4
+downloading 3 of 29.0
+Downloading...
+From (uriginal): https://drive.google.com/u/0/uc?id=1Db4wEwHhgMae2BPJ5f049xLFNh2YLHkk&export=download
+From (redirected): https://drive.google.com/uc?id=1Db4wEwHhgMae2BPJ5f049xLFNh2YLHkk&export=download&confirm=t&uuid=171c06e0-731b-44d5-b117-6fba85163434
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_07_Theory_03_AlmostSureConvergence_BorelCantelli.mp4
+100%|██████████| 114M/114M [00:08<00:00, 13.2MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1Db4wEwHhgMae2BPJ5f049xLFNh2YLHkk&export=download:::::downloaded/Lesson_07_Theory_03_AlmostSureConvergence_BorelCantelli.mp4
+downloading 4 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=1yIEmHhqe0h1i-nBg_vCcJ0yzSAjfav6a&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_07_Theory_04_GlivenkoCantelli_UniformConvergenceOfEmpiricalCDF.mp4
+100%|██████████| 93.9M/93.9M [00:07<00:00, 13.0MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1yIEmHhqe0h1i-nBg_vCcJ0yzSAjfav6a&export=download:::::downloaded/Lesson_07_Theory_04_GlivenkoCantelli_UniformConvergenceOfEmpiricalCDF.mp4
+downloading 5 of 29.0
+Downloading...
+From (uriginal): https://drive.google.com/u/0/uc?id=1Oosog1d1O461OlK4mOwTisrUmR_HqrEs&export=download
+From (redirected): https://drive.google.com/uc?id=1Oosog1d1O461OlK4mOwTisrUmR_HqrEs&export=download&confirm=t&uuid=ebb6805c-9a19-48e1-be92-c73fff6ff64d
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_07_Theory_05_Standardization_QuickIntroToCLT.mp4
+100%|██████████| 132M/132M [00:09<00:00, 13.2MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1Oosog1d1O461OlK4mOwTisrUmR_HqrEs&export=download:::::downloaded/Lesson_07_Theory_05_Standardization_QuickIntroToCLT.mp4
+downloading 6 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=1WTh5uDhPCBHJOGiWrlCu-Zk1_F74W1r5&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_08_Theory_01_AlmostSurely_ProbabilityZero.mp4
+100%|██████████| 80.0M/80.0M [00:06<00:00, 13.0MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1WTh5uDhPCBHJOGiWrlCu-Zk1_F74W1r5&export=download:::::downloaded/Lesson_08_Theory_01_AlmostSurely_ProbabilityZero.mp4
+downloading 7 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=1M_llkCcuDl1sAx7EMgwVW7JkRO5HegIc&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_08_Theory_02_OrderStatistics.mp4
+100%|██████████| 35.5M/35.5M [00:02<00:00, 13.1MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1M_llkCcuDl1sAx7EMgwVW7JkRO5HegIc&export=download:::::downloaded/Lesson_08_Theory_02_OrderStatistics.mp4
+downloading 8 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=1ZvhQsMh7fRKUchi9-7aTAQuNxCnf9Fb9&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_08_Theory_03_Quantiles.mp4
+100%|██████████| 47.0M/47.0M [00:03<00:00, 13.3MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1ZvhQsMh7fRKUchi9-7aTAQuNxCnf9Fb9&export=download:::::downloaded/Lesson_08_Theory_03_Quantiles.mp4
+downloading 9 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=1nzQjbU9l-parcpgGcP6yJ1mAIh_cDsiM&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_08_Theory_04_QuantileFunction_GeneralizedInverse.mp4
+100%|██████████| 89.6M/89.6M [00:08<00:00, 11.1MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1nzQjbU9l-parcpgGcP6yJ1mAIh_cDsiM&export=download:::::downloaded/Lesson_08_Theory_04_QuantileFunction_GeneralizedInverse.mp4
+downloading 10 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=1jaxaDQRvuxvAdHkF-18lxx0Zn8Xz8KX_&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_08_Theory_05_OrderStatistics_Density.mp4
+100%|██████████| 47.4M/47.4M [00:03<00:00, 13.3MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1jaxaDQRvuxvAdHkF-18lxx0Zn8Xz8KX_&export=download:::::downloaded/Lesson_08_Theory_05_OrderStatistics_Density.mp4
+downloading 11 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=191v43xoMG5q05oAqamkwNXNEgVQm9fbH&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_08_Theory_06_OrderStatistics_CDF.mp4
+100%|██████████| 29.5M/29.5M [00:02<00:00, 12.9MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=191v43xoMG5q05oAqamkwNXNEgVQm9fbH&export=download:::::downloaded/Lesson_08_Theory_06_OrderStatistics_CDF.mp4
+downloading 12 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=1U4v5nf1cGBFjjQhy8_5BcPj9CmL3J5a6&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_08_Theory_07_Ranks.mp4
+100%|██████████| 30.0M/30.0M [00:02<00:00, 13.1MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1U4v5nf1cGBFjjQhy8_5BcPj9CmL3J5a6&export=download:::::downloaded/Lesson_08_Theory_07_Ranks.mp4
+downloading 13 of 29.0
+Downloading...
+From (uriginal): https://drive.google.com/u/0/uc?id=1O9-TeP8fUQcH1w2EUECBrZ2WYpsb1WP1&export=download
+From (redirected): https://drive.google.com/uc?id=1O9-TeP8fUQcH1w2EUECBrZ2WYpsb1WP1&export=download&confirm=t&uuid=43f789f3-47fd-4b82-9402-218ac8c537c8
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_09_Theory_01_StochasticProcessDefinition_DiscreteContinuousTimeState.mp4
+100%|██████████| 115M/115M [00:09<00:00, 12.2MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1O9-TeP8fUQcH1w2EUECBrZ2WYpsb1WP1&export=download:::::downloaded/Lesson_09_Theory_01_StochasticProcessDefinition_DiscreteContinuousTimeState.mp4
+downloading 14 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=1jYeLdpVjdBOtja1-iD4WqoXsIfd0JApE&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_09_Theory_02_StochasticProcess_SamplePaths.mp4
+100%|██████████| 86.4M/86.4M [00:06<00:00, 13.1MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1jYeLdpVjdBOtja1-iD4WqoXsIfd0JApE&export=download:::::downloaded/Lesson_09_Theory_02_StochasticProcess_SamplePaths.mp4
+downloading 15 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=1ovXcMp5bdhz42S4MihP24KxfjHAtKkIH&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_09_Theory_03_StationaryIncrement.mp4
+100%|██████████| 27.3M/27.3M [00:02<00:00, 13.2MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1ovXcMp5bdhz42S4MihP24KxfjHAtKkIH&export=download:::::downloaded/Lesson_09_Theory_03_StationaryIncrement.mp4
+downloading 16 of 29.0
+Downloading...
+From: https://drive.google.com/u/0/uc?id=1P6uWx5RDhvOYyzBAygBvyekk3Ww4-1a6&export=download
+To: /Users/anto/Desktop/wgetter/downloaded/Lesson_09_Theory_04_ContinuityInProbability.mp4
+100%|██████████| 15.2M/15.2M [00:01<00:00, 8.75MB/s]
+mdownloaded https://drive.google.com/u/0/uc?id=1P6uWx5RDhvOYyzBAygBvyekk3Ww4-1a6&export=download:::::downloaded/Lesson_09_Theory_04_ContinuityInProbability.mp4
+downloading 17 of 29.0
